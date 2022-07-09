@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def click():
-    print("Click")
+    print("Click.")
 
 
 # Press the green button in the gutter to run the script.
